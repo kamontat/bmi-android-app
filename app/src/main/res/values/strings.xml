@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="bmi_calculation">BMI Calculation</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="zero_kg">0 kg</string>
+    <string name="zero_m">0 m</string>
+    <string name="calculate">Calculate</string>
+    <string name="image_of_bmi_result">image of bmi result</string>
+    <string name="is_result">Result?</string>
+</resources>
